@@ -91,19 +91,18 @@ export default function About() {
           <div className="min-w-0 lg:col-span-6 xl:col-span-6">
             <Reveal className="space-y-6">
               <p className="lead !text-fg">
-                I&rsquo;m Hamza, a MERN Stack Developer based in Karachi, Pakistan. I build full-stack web
-                applications with MongoDB, Express.js, React.js and Node.js, from the REST API to the interface
-                people actually use.
+                I&rsquo;m Hamza, a Full-Stack Developer. I build modern, scalable web applications using MongoDB,
+                Express.js, React.js, and Node.js — working across both backend systems and frontend experiences.
               </p>
               <p className="text-muted">
-                I develop and maintain scalable applications, including the She
-                Commerce marketplace platform. As a freelancer on Fiverr I&rsquo;ve built custom applications and
-                responsive React single-page apps for international clients.
+                I develop full-stack applications with a focus on clean architecture, reliable REST APIs, secure
+                authentication, maintainable code, and responsive interfaces. My experience includes building
+                platforms such as She Commerce and other web applications across different business needs.
               </p>
               <p className="text-muted">
-                I care about clean, maintainable code, clear communication with the people I build for, and
-                interfaces that feel considered on every screen. I studied Computer Science at the University
-                of Sindh and keep growing my skills with every project.
+                I care about writing clean and maintainable code, solving problems thoughtfully, and building
+                interfaces that are clear, responsive, and easy to use. I studied Computer Science at the University
+                of Sindh and continue to strengthen my skills through real-world projects and continuous learning.
               </p>
             </Reveal>
 

@@ -167,7 +167,7 @@ export default function Services() {
           onKeyDown={onKeyDown}
           className="relative mx-auto flex flex-col items-center pt-[clamp(3rem,9vw,7rem)]"
         >
-          <div className="relative aspect-[1/1.3] w-[min(17rem,72vw)] sm:w-[19rem] lg:w-[20.5rem]">
+          <div className="relative aspect-[1/1.5] w-[min(17rem,76vw)] sm:aspect-[1/1.3] sm:w-[19rem] lg:w-[20.5rem]">
             {services.map((s, i) => (
               <Card
                 key={s.id}
